@@ -1,2 +1,6 @@
 File Text 4 in a firstbranch branch
+<<<<<<< HEAD
 Modified file file_text4
+=======
+modified file file_text4
+>>>>>>> firstbranch
